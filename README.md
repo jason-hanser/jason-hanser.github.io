@@ -10,7 +10,7 @@ This is a test.
 
 #### Why Yield Matters
 
-<a href="https://github.com/jason-hanser/why-yield-matters/blob/master/report.html">Project</a>
+<a href="https://htmlpreview.github.io/https://github.com/jason-hanser/why-yield-matters/blob/master/report.html">Project</a>
 <a href="https://github.com/jason-hanser/why-yield-matters">Github Repo</a>
 
 This was a small project that looked at the effect of yield on enrollment management. 
@@ -18,6 +18,12 @@ This was a small project that looked at the effect of yield on enrollment manage
 
 
 #### Topic Modelling of Admissions Essay 
+
+
+#### Block Schedule Project
+
+<a href="/_projects/block-schedule-walkthrough-p1.html">Project</a>
+<a href="https://github.com/jason-hanser/block-schedule">Github Repo</a>
 
 
 ## Fantasy Baseball
