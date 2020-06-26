@@ -24,6 +24,7 @@ This was a small project that looked at the effect of yield on enrollment manage
 
 [Part I](https://github.com/jason-hanser/jason-hanser.github.io/blob/master/_projects/block-schedule-walkthrough-p1.html)
 [Part I](https://github.com/jason-hanser/block-schedule/blob/master/block-schedule-walkthrough-p1.html)
+[Part I](https://htmlpreview.github.io/https://github.com/jason-hanser/jason-hanser.github.io/blob/master/_projects/block-schedule-walkthrough-p1.html)
 [Github Repo](https://github.com/jason-hanser/block-schedule)
 
 
