@@ -22,8 +22,9 @@ This was a small project that looked at the effect of yield on enrollment manage
 
 #### Block Schedule Project
 
-<a href="/_projects/block-schedule-walkthrough-p1.html">Project</a>
-<a href="https://github.com/jason-hanser/block-schedule">Github Repo</a>
+[Part I](https://github.com/jason-hanser/jason-hanser.github.io/blob/master/_projects/block-schedule-walkthrough-p1.html)
+[Part I](_projects/block-schedule-walkthrough-p1.html)
+[Github Repo](https://github.com/jason-hanser/block-schedule)
 
 
 ## Fantasy Baseball
