@@ -13,6 +13,12 @@ In response to COVID-19, Eckerd College decided to implement a block schedule fo
 
 [Github Repo](https://github.com/jason-hanser/block-schedule)
 
+#### College Admission Essay Topic Modelling Project
+
+[Project Walkthrough](https://htmlpreview.github.io/?https://github.com/jason-hanser/college-admission-essays/blob/master/college-admission-essays.html)
+
+[Github Repot](https://github.com/jason-hanser/college-admission-essays)
+
 #### Autumn Term Placement 
 
 [Github Repo](https://github.com/jason-hanser/at-placement-project)
