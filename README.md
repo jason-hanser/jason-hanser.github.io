@@ -6,6 +6,7 @@ If you have any questions or feedback, feel free to reach out to me.
 
 
 ### Higher Education
+***
 
 #### Block Schedule Project
 
@@ -29,6 +30,7 @@ Prior to the normal semester, incoming first year students at Eckerd College tak
 
 
 ### Fantasy Baseball
+***
 
 #### Data & Web Scrapers
 
@@ -39,6 +41,7 @@ A bunch of data scraped from ESPN and Baseball Reference as part of a larger, pe
 
 
 ### Miscellaneous
+***
 
 #### Wine Classification
 
