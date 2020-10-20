@@ -32,9 +32,9 @@ Prior to the normal semester, incoming first year students at Eckerd College tak
 
 #### Data & Web Scrapers
 
-[Github](https://github.com/jason-hanser/fantasy-baseball/tree/main/1%20-%20Scraping%20and%20Cleaning), [Dropbox](https://www.dropbox.com/sh/v3m6s84997jmkwq/AADTI3MCzcNeV8C4Qlu1lW7-a?dl=0)
+[Github](https://github.com/jason-hanser/fantasy-baseball/tree/main/1%20-%20Scraping%20and%20Cleaning), [Dropbox](https://www.dropbox.com/sh/v3m6s84997jmkwq/AADTI3MCzcNeV8C4Qlu1lW7-a?dl=0), [Write-up](https://htmlpreview.github.io/?https://github.com/jason-hanser/fantasy-baseball/blob/main/1%20-%20Scraping%20and%20Cleaning/scraping-and-cleaning.html)
 
-A bunch of data scraped from ESPN and Baseball Reference as part of a larger, pet project. You can download the raw and clean data using the Dropbox link above, while the github link contains the web scrapers as well a script to clean the raw data. 
+A bunch of data scraped from ESPN and Baseball Reference as part of a larger, pet project. You can download the raw and clean data using the Dropbox link above.
 
 #### What does it take to win?
 
