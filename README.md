@@ -42,6 +42,13 @@ A bunch of data scraped from ESPN and Baseball Reference as part of a larger, pe
 
 A quick analysis of what a team needs to do in order to win in a standard, head-to-head, categories-based fantasy baseball league. 
 
+#### Player Valuation
+
+[Github](https://github.com/jason-hanser/fantasy-baseball/tree/main/3%20-%20Player%20Valuation),
+[Write-up](https://htmlpreview.github.io/?https://github.com/jason-hanser/fantasy-baseball/blob/main/3%20-%20Player%20Valuation/Player-Valuation.html)
+
+An analysis where I quantify the performance of players in order to better understand their contribution. 
+
 ### Miscellaneous
 
 #### Wine Classification
