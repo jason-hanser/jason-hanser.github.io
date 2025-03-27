@@ -1,6 +1,6 @@
 # jason-hanser.github.io
 
-This page is used to host and highlight projects I've done over the years. All of my code is made public and contained within my GitHub repo. And, whenever possible, I make all of the data public as well. However, some work-related use data that cannot be shared due FERPA regulations or other privacy concerns. 
+This page is used to host and highlight projects I’ve done over the years. All of my code is made public and contained within my GitHub repo. Whenever possible, I make all of the data public as well; however, some work-related use data that cannot be shared due to FERPA regulations or other privacy concerns.
 
 If you have any questions or feedback, feel free to reach out to me. 
 
