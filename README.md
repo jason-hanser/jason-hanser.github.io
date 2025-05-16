@@ -14,14 +14,15 @@ If you have any questions or feedback, feel free to reach out to me.
 [Part II](https://htmlpreview.github.io/?https://github.com/jason-hanser/block-schedule/blob/master/block-schedule-walkthrough-p2.html)
 
 In response to COVID-19, Eckerd College decided to implement a block schedule for the fall semester of 2020. That is, rather than taking courses simultaneously, students who take one course as a time. However, the decision to implement the block schedule was made after student’s had registered for the fall semester. Rather than forcing all students to re-register, I write a script --- using a genetic algorithm --- to design a schedule that would minimize the number of course registration conflicts.
-
+<br>
 
 #### **College Admission Essays** (R, topic modelling)
 [GitHub](https://github.com/jason-hanser/college-admission-essays),
 [Write-up](https://htmlpreview.github.io/?https://github.com/jason-hanser/college-admission-essays/blob/master/college-admission-essays.html)
 
 Despite being a significant part of a student's application, the college admission essay receives little attention from an analytics standpoint. Here, I modeled topic themes of college admissions essay using LDA to examine whether an applicant's essay could be used to predict enrollment and/or retention. 
-
+<br>
+<br>
 
 #### **Autumn Term Placement Project** (R, optimization)
 [GitHub](https://github.com/jason-hanser/at-placement-project),
