@@ -7,7 +7,7 @@ If you have any questions or feedback, feel free to reach out to me.
 <br>
 <br>
 
-### **Higher Education**
+## **Higher Education**
 
 #### Block Schedule Project (R, optimization)
 [GitHub](https://github.com/jason-hanser/block-schedule),
@@ -34,7 +34,7 @@ Prior to the normal semester, incoming first year students at Eckerd College tak
 <br>
 <br>
 
-### **Fantasy Baseball**
+## **Fantasy Baseball**
 
 #### **Data & Web Scrapers** (R, web scraping)
 [GitHub](https://github.com/jason-hanser/fantasy-baseball/tree/main/1%20-%20Scraping%20and%20Cleaning),
@@ -60,7 +60,7 @@ An analysis where I quantify the performance of players in order to better under
 <br>
 <br>
 
-### **Miscellaneous**
+## **Miscellaneous**
 
 #### **Wine Classification** (R, machine learning)
 [Github](https://github.com/jason-hanser/Wine-Reviews),
