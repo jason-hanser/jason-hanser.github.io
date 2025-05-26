@@ -36,7 +36,7 @@ Prior to the normal semester, incoming first year students at Eckerd College tak
 
 #### Peer Institutes (Python, analysis)
 [GitHub](https://github.com/jason-hanser/peer-institutes),
-[Write-up](https://htmlpreview.github.io/?https://github.com/jason-hanser/peer-institutes/blob/main/cleaning.html)
+[Write-up](https://htmlpreview.github.io/?https://github.com/jason-hanser/peer-institutes/blob/main/analysis.html)
 
 Peer institutes are used in higher education for benchmarking purposes. I describe a simple framework for identifying similar institutions. 
 
